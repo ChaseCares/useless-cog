@@ -11,4 +11,4 @@ class UselessCog(commands.Cog):
     async def mycom(self, ctx):
         """This does stuff!"""
         # Your code will go here
-        await ctx.send("Addy can't do stuff!")
+        await ctx.send("@Addy can't do stuff!")
